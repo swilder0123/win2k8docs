@@ -32,7 +32,7 @@ Cloud Migration includes ample documentation on preparing for migrations. Expect
 {% collapsible %}
 
 ```
-   - I am putting some really boring rote text in here for you to ignore
+   - I am putting some really boring rote text in here for you to ignore.
    
 ```
 {% endcollapsible %}
