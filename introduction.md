@@ -17,11 +17,11 @@ You can also read through "Reader's Digest" versions of product overviews and gu
 
 Azure Migration uses Azure Site Recovery replication together with a variety of assessment tools to successfully duplicate server on-prem server configurations in Microsoft Azure. These are typically called "lift-and-shift" migrations.
 
-The Azure Migration Guide is the principal resource in understanding how Azure Migration works. Specifically it provides a roadmap to important steps for any migration, including assessment, migration, optization and potential later workload transformation.
+The [Azure Migration Guide](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/migrate/azure-migration-guide/?tabs=Overview) is the principal resource in understanding how Azure Migration works. Specifically it provides a roadmap to important steps for any migration, including assessment, migration, optization and potential later workload transformation.
 
 ### SOME OTHER RESOURCES
 
-Cloud Migration is a topic within the Cloud Adoption Framework (CAF) that lays out a process for how customers can move existing on-prem assets to Azure. 
+[Cloud Migration](https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/migrate/azure-migration-guide/index?tabs=Overview) is a topic within the Cloud Adoption Framework (CAF) that lays out a process for how customers can move existing on-prem assets to Azure. 
 
 Azure Migrate is a service built on Azure Site Recovery technology to 'lift-and-shift' on-prem servers to Azure.
 
