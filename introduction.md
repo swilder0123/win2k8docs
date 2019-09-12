@@ -29,7 +29,7 @@ Azure Database Migration Service migrates compatible on-prem databases to Azure 
 
 Cloud Migration includes ample documentation on preparing for migrations. Expect many customer scenarios based on datacenter standards, deployment practices, etc.
 
-SPECIAL CHALLENGES FOR WINDOWS SERVER 2008 AND 2008 R2 MIGRATION
+### SPECIAL CHALLENGES FOR WINDOWS SERVER 2008 AND 2008 R2 MIGRATION
 
 - 32- vs. 64-bit OS migration - Windows Server 2008 was the final version of Windows Server to be available in a 32-bit distribution.
 - Features - Key OS features, like Storage Spaces, Clustering, network virtualization, etc. are either completely missing in Windows Server 2008 or have substantially reduced functionality.
