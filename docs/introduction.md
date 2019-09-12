@@ -34,6 +34,8 @@ Cloud Migration includes ample documentation on preparing for migrations. Expect
 ```
    - I am putting some really boring rote text in here for you to ignore.
    
+   - here is a trivial update
+   
 ```
 {% endcollapsible %}
 
