@@ -1,5 +1,5 @@
 # Introduction
----
+
 ## Purpose of this notebook
 
 This notebook is not for architectural planning. It is to assist as a reference to Windows Server in migration planning, with plenty of links to old articles, datacenter considerations, etc. Hopefully it will save you time and be a useful shortcut to get to information you need.
