@@ -42,3 +42,4 @@ Cloud Migration includes ample documentation on preparing for migrations. Expect
 - 32- vs. 64-bit OS migration - Windows Server 2008 was the final version of Windows Server to be available in a 32-bit distribution.
 - Features - Key OS features, like Storage Spaces, Clustering, network virtualization, etc. are either completely missing in Windows Server 2008 or have substantially reduced functionality.
 - Management tools connectivity - remote admin tools are version sensitive. Typically downlevel client versions are required for remote management tool connectivity.
+- Age of documentation - in some cases, documents may be missing, or links from existing pages may not work.
