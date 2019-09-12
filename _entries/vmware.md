@@ -1,3 +1,9 @@
+---
+sectionid: vmware
+sectionclass: h2
+title: VMWare Overview
+parent-id: intro
+---
 
 ## About VMware
 
