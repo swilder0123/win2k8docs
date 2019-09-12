@@ -29,7 +29,7 @@ Azure Database Migration Service migrates compatible on-prem databases to Azure 
 
 Cloud Migration includes ample documentation on preparing for migrations. Expect many customer scenarios based on datacenter standards, deployment practices, etc.
 
-{% collapsible %}
+
 
 ```
    - I am putting some really boring rote text in here for you to ignore.
@@ -37,7 +37,7 @@ Cloud Migration includes ample documentation on preparing for migrations. Expect
    - here is a trivial update
    
 ```
-{% endcollapsible %}
+
 
 ### SPECIAL CHALLENGES FOR WINDOWS SERVER 2008 AND 2008 R2 MIGRATION
 
